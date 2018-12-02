@@ -1,5 +1,5 @@
 # Events
-Simple, C#-like event system
+Simple, C#-like events system
 
 ## Usage
 1. Create a new event handler
