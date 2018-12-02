@@ -14,7 +14,7 @@ struct KeyPressEventArgs : public Events::EventArgs {
 	}
 }
 
-Event<KeyPressEventArgs> keyPressEvent;
+Events::Event<KeyPressEventArgs> keyPressEvent;
 ```
 2. Add a callback:
 ```
